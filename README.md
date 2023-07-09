@@ -22,7 +22,7 @@ Registro: A estimativa final é registrada e pode ser usada para planejar a aloc
 O Planning Poker promove a colaboração e o envolvimento de toda a equipe no processo de estimativa, evitando a influência excessiva de indivíduos dominantes. Ele ajuda a capturar diferentes perspectivas e a tomar decisões mais informadas sobre o planejamento e o gerenciamento de projetos ágeis.
 
 ## Livro
-![Imagem](https://planningpokeronline.com/static/planning-poker-voting-86185d2c1ead1bf3986710528ba1524e.mp4)
+![Imagem](https://planningpokeronline.com/static/voting-e4497d22ea71bf5d2dbc243a83b46f6c.webp)
 
 ## Planning poker online
 [Documentação](https://planningpokeronline.com/)
